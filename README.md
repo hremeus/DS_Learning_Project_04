@@ -1,5 +1,5 @@
-# DS_Learning_Project_03
-Working with data from Booking 
+# DS_Learning_Project_04
+Working with data from real bank 
 
 # My data science projects
 
